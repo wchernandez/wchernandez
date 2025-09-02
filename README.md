@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I'm William 👋🏼
+I'm a first year software engineering student who is passionate about cyber-security and developments in artifical intelligence. I am a student representative of my University's Young Engineers Society, and enjoy other clubs such as rocketry.
+
+**Languages**
+Python, C#, JavaScript
 
 <!--
 **wchernandez/wchernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
