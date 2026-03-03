@@ -1,5 +1,5 @@
 ## Hey, I'm William 👋🏼
-I'm a first year software engineering student who is passionate about cyber-security and developments in artifical intelligence. I am a student representative of my University's Young Engineers Society, and enjoy other clubs such as rocketry.
+I'm a second year software engineering student who is passionate about cyber-security and developments in artifical intelligence. I am a student representative of my University's Young Engineers Society, and enjoy other clubs such as rocketry.
 
 **Languages**
 Python, C#, JavaScript
